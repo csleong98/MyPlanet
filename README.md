@@ -29,7 +29,7 @@ git checkout -b your_branch_name
 5. Commit and push your changes
 
 ```terminal
-git add
+git add .
 git commit -m "your_commit_message"
 git push origin your_branch_name
 ```
