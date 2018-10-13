@@ -1,5 +1,5 @@
-# space_website
-A simple hacktoberfest project that enable contributors to upload Space related articles to the website. Contributors are also free to code in additional content like videos or games related to Space.
+# My Planet
+A simple hacktoberfest project that enable contributors to build their own static HTML page that tells a characteristics of a planet. People can also create their own planet and tell the story of their own planet. (For example: the species, the weather conditions on the planet, how to travel to the planet, etc.)
 
 # Instructions:
 1. Fork this repository as your own
