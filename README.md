@@ -34,4 +34,4 @@ git commit -m "your_commit_message"
 git push origin your_branch_name
 ```
 
-6. [Push it up to Github and create a pull request](https://services.github.com/on-demand/github-cli/open-pull-request-github)
+6. [Push it up to Github and create a pull request and enjoy](https://services.github.com/on-demand/github-cli/open-pull-request-github)
